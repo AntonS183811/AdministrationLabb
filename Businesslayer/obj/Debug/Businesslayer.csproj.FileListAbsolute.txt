@@ -1,0 +1,5 @@
+F:\dokument\Visual Studio 2015\Projects\AdministrationLabb1\Businesslayer\obj\Debug\Businesslayer.csprojResolveAssemblyReference.cache
+F:\dokument\Visual Studio 2015\Projects\AdministrationLabb1\Businesslayer\bin\Debug\Businesslayer.dll
+F:\dokument\Visual Studio 2015\Projects\AdministrationLabb1\Businesslayer\bin\Debug\Businesslayer.pdb
+F:\dokument\Visual Studio 2015\Projects\AdministrationLabb1\Businesslayer\obj\Debug\Businesslayer.dll
+F:\dokument\Visual Studio 2015\Projects\AdministrationLabb1\Businesslayer\obj\Debug\Businesslayer.pdb
